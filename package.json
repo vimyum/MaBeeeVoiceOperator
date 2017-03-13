@@ -1,0 +1,19 @@
+{
+  "name": "voice-de-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "fs": "0.0.1-security",
+    "tiny-segmenter": "^0.2.0",
+    "vue": "^2.2.1",
+    "vue-material": "^0.7.1"
+  }
+}

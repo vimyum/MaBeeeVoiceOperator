@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 62px;
+    color: #577;
+    line-height: 62px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin: 0px;
+}
+
+.body-background {
+    padding: 0px;
+    width: 100%;
+    height: 680px;
+    text-align: center;
+}
+
+.body-background .keyForm {
+    margin-top: 140px;
+}
+
+.messageBox {
+    padding-bottom: 80px;
+}
+
